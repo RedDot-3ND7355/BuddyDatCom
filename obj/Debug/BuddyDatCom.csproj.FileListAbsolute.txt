@@ -1,0 +1,13 @@
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\bin\Debug\BuddyDatCom.exe.config
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\bin\Debug\BuddyDatCom.exe
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\bin\Debug\BuddyDatCom.pdb
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\obj\Debug\BuddyDatCom.csproj.CoreCompileInputs.cache
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\obj\Debug\BuddyDatCom.exe
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\obj\Debug\BuddyDatCom.pdb
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\bin\Debug\BuddyDatCom.exe.manifest
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\bin\Debug\BuddyDatCom.application
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\obj\Debug\BuddyDatCom.TrustInfo.xml
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\obj\Debug\BuddyDatCom.exe.manifest
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\obj\Debug\BuddyDatCom.application
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\obj\Debug\BuddyDatCom.csproj.Fody.CopyLocal.cache
+C:\Users\Endless\source\repos\BuddyDatCom\BuddyDatCom\obj\Debug\BuddyDatCom.g.resources
